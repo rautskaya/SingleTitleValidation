@@ -1694,3 +1694,16 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated 
 2016-03-24 10:21:24,453 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Documents/Development/SingleTitleValidation/SingleTitleValidation/src/main/resources
 2016-03-24 10:21:24,454 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-03-24 10:21:24,455 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Documents/Development/SingleTitleValidation/SingleTitleValidation/src/test/resources
+2016-03-24 10:37:52,131 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-24 10:37:52,134 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Documents/Development/SingleTitleValidation/SingleTitleValidation/src/main/resources
+2016-03-24 10:37:52,136 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-24 10:37:52,136 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Documents/Development/SingleTitleValidation/SingleTitleValidation/src/test/resources
+2016-03-24 10:56:00,245 [Worker-15] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-03-24 10:56:29,556 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-24 10:56:29,556 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Documents/Development/SingleTitleValidation/SingleTitleValidation/src/main/resources
+2016-03-24 10:56:29,557 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-24 10:56:29,558 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Documents/Development/SingleTitleValidation/SingleTitleValidation/src/test/resources
+2016-03-24 11:00:16,493 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-24 11:00:16,493 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Documents/Development/SingleTitleValidation/SingleTitleValidation/src/main/resources
+2016-03-24 11:00:16,494 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-24 11:00:16,494 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Documents/Development/SingleTitleValidation/SingleTitleValidation/src/test/resources
